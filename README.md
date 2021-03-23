@@ -1,6 +1,9 @@
 # ENE0056_SISMIC
 Following SM-Plano-2020-1 (v1.0) 
 
+Hands-on programming with mixed-signal microcontroller family from Texas Instruments, especially the MSP430F5529 16-bit MCU 128KB Flash, 8KB RAM, 25MHz CPU speed, 12-bit analog-to-digital converter, timers, serial communication (UART, I2C, SPI).
+
+
 | Temas  | Descrição |
 |-|-|
 | 1  | Introdução MSP430 |
